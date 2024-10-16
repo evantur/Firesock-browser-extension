@@ -11,10 +11,8 @@
             "js": ["sandbox.js"]
         }
     ],
+
     "web_accessible_resources": [
-        {
-            "resources": ["disguise.js"],
-            "matches": ["<all_urls>"]
-        }
+        "disguise.js"
     ]
 }
