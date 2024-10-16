@@ -10,7 +10,7 @@ It's something that will improve your anonymity online!
 5. select your file folder and you're good to go!
 
 **Manifest File**
-The manifest.json file contains the name and description of the extension, manifest_version must be set to 3 for chrome.
+The manifest.json file contains the name and description of the extension, manifest_version must be set to 2 for firefox.
 
 **Sandbox File**
 The sandbox.js file injects your script before a webpage loads, because if it loads after the webpage the extension won't work!
