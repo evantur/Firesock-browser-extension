@@ -1,3 +1,5 @@
+// do not change this 
+
 var inject = document.createElement('script');
 inject.src = firefox.runtime.getURL('disguise.js');
 inject.onload = function() {
