@@ -2,13 +2,6 @@ This is a Mozilla Firefox anti-browser-fingerprinting extension.
 
 It's something that will improve your anonymity online!
 
-**TO INSTALL EXTENSION**
-1. Install the disguise, manifest, and sandbox files into a folder
-2. Open firefox, go to the extension menu
-3. Enable developer mode (switch top right)
-4. Click 'load unpacked'
-5. select your file folder and you're good to go!
-
 **Manifest File**
 The manifest.json file contains the name and description of the extension, manifest_version must be set to 2 for firefox.
 
